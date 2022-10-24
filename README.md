@@ -16,7 +16,7 @@ Glad to see you here!
 
 
 <hr>   
-A self-taught programmer and computer enthusiast, I always enjoyed discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
+A self-taught programmer and computer enthusiast, I always enjoyed discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into both App and Web Development 🕸️ and working on my Data Structures and Algorithms.
  
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-laptop-illustration-work-from-home-mascot-cartoon-character-people-isolated_138676-1075.jpg?w=740">
 	

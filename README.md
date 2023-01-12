@@ -65,7 +65,7 @@ Languages and Tools:
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit-raj-14)](https://github.com/harshit-raj-14/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Raj-14)](https://github.com/Harshit-Raj-14/github-readme-stats)
 	
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygupta08&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </details>

@@ -71,7 +71,7 @@ Languages and Tools:
 </details>
 
 
-<details>	
+<!-- <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -80,7 +80,7 @@ Languages and Tools:
 	  <li><b>Code Editor:</b> Visual Studio Code, Sublime Text, Atom</li>
 	  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels</li>
 	</ul>
-</details>   
+</details>    -->
     
 </div>   
  

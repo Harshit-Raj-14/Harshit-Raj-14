@@ -1,5 +1,5 @@
 <a href="https://github.com/Harshit-Raj-14">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=App+Developer;Web+Developer;Open+Source+Contributor;Tech+Content+Writer;Game+Developer+Unity;Data+Structures+and+Algorithm;Competitive+Programming;Tech+Geek" />
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Open+Source+Contributor;Tech+Content+Writer;Game+Developer+Unity;Data+Structures+and+Algorithm;Competitive+Programming;Tech+Geek" />
     </a>
     <div align=center>
     <a href="https://github.com/Harshit-Raj-14">
@@ -7,16 +7,12 @@
     </a>
     <h1 align="center">Hi 👋, I'm Harshit Raj</h1>
     
-Glad to see you here! 
-    
-
+<b>Glad to see you here!</b>
 
 <h3 align="left">Connect with me:</h3>
 
-
-
 <hr>   
-A self-taught programmer and computer enthusiast, I always enjoyed discovering new exciting technologies, automating things, and finding solutions to things using technology. I'm currently into both App and Web Development 🕸️ and working on my Data Structures and Algorithms.
+A web developer and programming enthusiast, I always enjoyed discovering new exciting technologies, making new things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
  
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-laptop-illustration-work-from-home-mascot-cartoon-character-people-isolated_138676-1075.jpg?w=740">
 	
@@ -24,11 +20,13 @@ A self-taught programmer and computer enthusiast, I always enjoyed discovering n
 	
 <h4>🗣 Talking about Personal Stuffs:</h4>
     
-- 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and Competitive Programming.
+- 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and doing Competitive Programming.
 - 🏗 Building 
-- 🚀 &nbsp; I’m currently exploring 
+- 🚀 &nbsp; I’m currently exploring React.js and Node.js.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Harshit-Raj-14).
-- 👾 &nbsp; Fun fact: Nothing is random. Everything is pre-defined
+- 👾 &nbsp; I have built both 3-D and 2-D games in Unity.
+- ✍🏻 &nbsp; I like writing tech blogs and you can read them on my medium blog - https://medium.com/@Harshit_Raj_14
+- 👨‍💻 &nbsp; I also like to spend my free time doing open source contribution and challenge and develop my skills.
 - 📫 &nbsp; How to reach me: harshit.raj2021@vitbhopal.ac.in 
 
     
@@ -37,7 +35,7 @@ A self-taught programmer and computer enthusiast, I always enjoyed discovering n
     
 <h4>My Absolute Favorites: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h4>
 
-- 💻 &nbsp; I love exploring new tech stack and developing new apps
+- 💻 &nbsp; I love coding in java and exploring new tech stack and developing new apps.
 - 📰 &nbsp; Reading and writing tech blogs whenever possible
 - 🍕 &nbsp; Hackathons & coding competitions
  
@@ -61,33 +59,19 @@ Languages and Tools:
     
  
 <hr>  
-<h4> Projects and Dev Stuffs: </h4>
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<!-- <h4> Projects and Dev Stuffs: </h4> -->
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Raj-14)](https://github.com/Harshit-Raj-14/github-readme-stats)
+  <b>⚡ Github Stats</b>
 	
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaygupta08&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</details>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Raj-14)](https://github.com/Harshit-Raj-14/github-readme-stats)
 
-
-<!-- <details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	  <li><b>OS:</b> Windows / Linux</li>
-  	  <li><b>Language : </b>Java </li>
-	  <li><b>Code Editor:</b> Visual Studio Code, Sublime Text, Atom</li>
-	  <li><b>To Stay Updated:</b> Dev.to, Medium, Twitter and Tech YouTube Channels</li>
-	</ul>
-</details>    -->
-    
+   
 </div>   
  
 <br>
     
 <div align="center">
 <h3>
-### Thank you for reading, Share your ❤️ by starring my useful repositories! And follow me for update on some of my more amazing projects🌟
-    </h3>
+Thank you for reading, Share your ❤️ by starring my useful repositories! And follow me for update on some of my more amazing projects🌟
+</h3>
 </div>

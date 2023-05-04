@@ -9,7 +9,15 @@
     
 <b>Glad to see you here!</b>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+	<p align="left">
+<a href="https://twitter.com/HarshitRaj_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshit-raj-500606229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harshit_raj_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Harshit_Raj_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a> 
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshitraj2021/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+</p>
+	</h3>
 
 <hr>   
 A web developer and programming enthusiast, I always enjoyed discovering new exciting technologies, making new things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
@@ -64,6 +72,8 @@ Languages and Tools:
   <b>⚡ Github Stats</b>
 	
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Raj-14)](https://github.com/Harshit-Raj-14/github-readme-stats)
+	
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshit-Raj-14&theme=tokyonight&border_radius=20)](https://git.io/streak-stats)
 
    
 </div>   

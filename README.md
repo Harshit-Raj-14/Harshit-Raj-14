@@ -16,11 +16,12 @@
 <a href="https://www.codechef.com/users/harshit_raj_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Harshit_Raj_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a> 
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshitraj2021/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
+<a href="https://leetcode.com/HarshitRaj_14/" target="blank"><img align="center" src="https://github.com/Harshit-Raj-14/Harshit-Raj-14/assets/98808802/015175ba-1538-43e6-a07c-4dc6d458312d" alt="leetcode" height="30" width="40"/></a>
 </p>
 	</h3>
 
 <hr>   
-A web developer and programming enthusiast, I always enjoyed discovering new exciting technologies, making new things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
+A web developer and programming enthusiast, I always enjoy discovering new exciting technologies, making new things, and finding solutions to things using technology. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms and problem solving.
  
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-laptop-illustration-work-from-home-mascot-cartoon-character-people-isolated_138676-1075.jpg?w=740">
 	
@@ -29,12 +30,12 @@ A web developer and programming enthusiast, I always enjoyed discovering new exc
 <h4>🗣 Talking about Personal Stuffs:</h4>
     
 - 🛠 &nbsp; I'm currently learning Data Structure and Algorithms and doing Competitive Programming.
-- 🏗 Building 
-- 🚀 &nbsp; I’m currently exploring React.js and Node.js.
+- 🏗 &nbsp; Building Websites.
+- 🚀 &nbsp; I’m currently learning React.js and Node.js.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Harshit-Raj-14).
 - 👾 &nbsp; I have built both 3-D and 2-D games in Unity.
 - ✍🏻 &nbsp; I like writing tech blogs and you can read them on my medium blog - https://medium.com/@Harshit_Raj_14
-- 👨‍💻 &nbsp; I also like to spend my free time doing open source contribution and challenge and develop my skills.
+- 👨‍💻 &nbsp; I also like to spend my free time doing open source contribution and challenge myself and develop my skills.
 - 📫 &nbsp; How to reach me: harshit.raj2021@vitbhopal.ac.in 
 
     
